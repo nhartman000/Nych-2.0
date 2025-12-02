@@ -1,0 +1,96 @@
+
+NYCH LICENSE v2.0 (Source-Available, Restricted Commercial Use)
+Copyright © 2024 Nicholas Hartman.
+All rights reserved.
+The NYCH Protocol, NYCH Lexicon, NYCH Shadow Method, associated glyph sets, code examples, documentation, and all derivative materials (collectively, “NYCH”) are made available under the following source-available license.
+1. Permission for Non-Commercial Use
+Permission is granted to:
+• view
+• study
+• fork
+• modify
+• redistribute
+the NYCH materials for non-commercial purposes only, provided that:
+• All copies retain this full license.
+• Attribution to “NYCH Protocol — created by Nicholas Hartman” is included in any public or private use.
+• Any modifications clearly indicate that they are derived from the original NYCH materials.
+No commercial rights are granted by default.
+2. Commercial Use Requires Written Permission
+No person, organization, or system may use NYCH:
+• for commercial advantage,
+• in paid services,
+• in enterprise deployments,
+• in government contracts,
+• in training or integrating into commercial LLMs,
+• or in any profit-generating capacity,
+without obtaining a commercial license directly from Nicholas Hartman.
+Commercial licenses may include:
+• revenue-share,
+• fixed-fee licensing,
+• partner licensing,
+• API-based metered usage,
+• OEM licensing,
+• or custom agreements.
+Contact: nicholas.hartman.official@gmail.com
+(or updated contact in future versions).
+3. Reciprocity Clause (Copyleft Compatibility)
+Any modified version or fork of NYCH that is:
+• published,
+• distributed,
+• or deployed in a shared environment
+must remain compatible with the original NYCH Protocol and must be released under this same license (NYCH License v1.0).
+You may extend, but you cannot close or privatize NYCH-derived systems.
+4. No Patent Rights Granted
+This license does not grant any patent rights, implied or explicit.
+If you create or obtain patents covering enhancements or implementations based on NYCH:
+• you must grant a royalty-free, non-exclusive license back to the NYCH Protocol for public non-commercial use
+• and may not assert such patents against the NYCH Protocol or its contributors.
+This prevents patent encirclement by corporations and protects the core ecosystem.
+5. Trademark Protection
+The names:
+• NYCH Protocol
+• NYCH
+• Nych Shadow
+• NYCH Lexicon
+• Nych Projection
+• And associated logos/symbols
+are trademarks of Nicholas Hartman.
+No permission is granted to use these marks in:
+• product names,
+• marketing,
+• company branding,
+• AI model names,
+• or derivative frameworks
+without explicit written consent.
+6. No Warranty
+NYCH is provided “as is,” without warranty of any kind, including:
+• fitness for purpose
+• merchantability
+• correctness
+• safety
+• reliability
+Use at your own risk.
+7. Termination
+Rights granted under this license terminate immediately if a user:
+• violates attribution requirements
+• attempts commercial use without a license
+• uses NYCH to train or integrate into commercial AI systems
+• files patent claims against NYCH
+• distributes incompatible forks
+Upon termination, all use must cease.
+8. Acceptance
+By using, copying, modifying, or distributing NYCH, you agree to be bound by the terms of this license.
+Summary (Human-Readable)
+• You can use NYCH freely for research and creative work.
+• You must give credit.
+• You cannot steal it or commercialize it.
+• Forks must remain open and compatible.
+• Commercial use requires a license from Nicholas Hartman.
+• Trademarks belong to Nicholas.
+• Patents cannot be used to block or steal NYCH.
+If you'd like, I can also generate:
+• NYCH License v1.0 FAQ
+• NYCH Commercial Licensing Agreement Draft
+• COMPLETE GitHub repo template with LICENSE + README + folders
+• NYCH Trademark Registration Guide
+• NYCH Contributor Agreement
