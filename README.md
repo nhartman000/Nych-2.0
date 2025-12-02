@@ -1,8 +1,6 @@
-
-
+   <img src="https://github.com/nhartman000/Nych-2.0/blob/main/assets/logo.png" width="200">
 
 # Nych Protocol v2.0
-
 Nych Protocol v2.0 is a symbolic / latent-space machine language stack and protocol designed for efficient multi-LLM coordination, holographic projection of state, and emoji-based compression of operations.
 
 ## Repository Status
